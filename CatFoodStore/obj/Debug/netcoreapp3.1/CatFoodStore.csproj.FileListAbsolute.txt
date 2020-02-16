@@ -1,0 +1,11 @@
+C:\Users\matthew\source\repos\CatFoodStore\CatFoodStore\bin\Debug\netcoreapp3.1\CatFoodStore.exe
+C:\Users\matthew\source\repos\CatFoodStore\CatFoodStore\bin\Debug\netcoreapp3.1\CatFoodStore.deps.json
+C:\Users\matthew\source\repos\CatFoodStore\CatFoodStore\bin\Debug\netcoreapp3.1\CatFoodStore.runtimeconfig.json
+C:\Users\matthew\source\repos\CatFoodStore\CatFoodStore\bin\Debug\netcoreapp3.1\CatFoodStore.runtimeconfig.dev.json
+C:\Users\matthew\source\repos\CatFoodStore\CatFoodStore\bin\Debug\netcoreapp3.1\CatFoodStore.dll
+C:\Users\matthew\source\repos\CatFoodStore\CatFoodStore\bin\Debug\netcoreapp3.1\CatFoodStore.pdb
+C:\Users\matthew\source\repos\CatFoodStore\CatFoodStore\obj\Debug\netcoreapp3.1\CatFoodStore.csprojAssemblyReference.cache
+C:\Users\matthew\source\repos\CatFoodStore\CatFoodStore\obj\Debug\netcoreapp3.1\CatFoodStore.AssemblyInfoInputs.cache
+C:\Users\matthew\source\repos\CatFoodStore\CatFoodStore\obj\Debug\netcoreapp3.1\CatFoodStore.AssemblyInfo.cs
+C:\Users\matthew\source\repos\CatFoodStore\CatFoodStore\obj\Debug\netcoreapp3.1\CatFoodStore.dll
+C:\Users\matthew\source\repos\CatFoodStore\CatFoodStore\obj\Debug\netcoreapp3.1\CatFoodStore.pdb
